@@ -6,5 +6,8 @@ public class Demo01 {
         int a = 11;
         a += 20;
         System.out.println(a);
+        int b = 10;
+        a += 10;
+        System.out.println(a);
     }
 }
