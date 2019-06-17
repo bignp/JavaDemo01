@@ -3,5 +3,8 @@ public class Demo01 {
         System.out.println("反反复复");
         System.out.println("噼里啪啦");
         System.out.println("PNPNPNP");
+        int a = 11;
+        a += 20;
+        System.out.println(a);
     }
 }
